@@ -10,7 +10,7 @@ import {
     ProjectEdit,
     ProjectCreate,
     ProjectIcon 
-} from './resources/Project/index';
+} from './resources/project/index';
 
 import { 
     PageList,
